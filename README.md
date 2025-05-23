@@ -1,8 +1,11 @@
 ## Hi! I'm Mahi ✨
 
+
+
 # 💡 About Me
 🧠 I'm a Computer Science student, learning and improving my skills <br/>
 🎮 Currently, learning how to make games more interactive <br/>
+
 
 
 # 🌱 Learning & Growing
