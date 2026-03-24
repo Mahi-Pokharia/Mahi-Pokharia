@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Mahi — a passionate developer exploring the world of software development and problem-solving.<br><br>💻 I enjoy building projects using Java, C/C++, and backend systems.  <br>🚀 Currently working on ideas combining AI/ML and real-world problems like color blindness assistance.  <br>📚 Focused on strengthening fundamentals through hands-on projects and system design.  <br>🌱 Interested in AI, IoT, and building impactful tech solutions for accessibility.  <br><br>🎯 Goal: To build meaningful technology that solves real-world problems and improves lives.
+<br>Hi, I'm Mahi — a passionate developer exploring the world of software development and problem-solving.<br><br>💻 I enjoy building projects using Java, C/C++, and backend systems.  <br>🚀 Currently working on ideas combining AI/ML and real-world problems.  <br>📚 Focused on strengthening fundamentals through hands-on projects and system design.  <br>🌱 Interested in AI, IoT, and building impactful tech solutions for accessibility.  <br><br>🎯 Goal: To build meaningful technology that solves real-world problems and improves lives.
 
 
 # 💻 Tech Stack:
