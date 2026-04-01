@@ -16,5 +16,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Thanks for visiting!  
-I'm just getting started on my programming journey — more projects and ideas coming soon 🚀  
+I'm just getting started on my programming journey, more projects and ideas coming soon 🚀  
 **Feel free to connect or follow to see what I build next!**
